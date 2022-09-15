@@ -1,5 +1,5 @@
 // program using switch statement
-let a = 1;
+let a = 2;
 
 switch (a) {
     case "1":
