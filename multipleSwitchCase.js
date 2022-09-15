@@ -1,7 +1,7 @@
 // multiple case switch program
 let fruit = 'apple';
 switch(fruit) {
-    case 'apple':
+    case 'papaya':
     case 'mango':
     case 'pineapple':
         console.log(`${fruit} is a fruit.`);
